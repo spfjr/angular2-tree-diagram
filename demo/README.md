@@ -14,7 +14,7 @@ On [gh-pages](https://artbelikov.github.io/angular2-tree-diagram/)
 - Zoom and pan
 - Configurable node width/height
 - Add/remove nodes
-- TreeComponent-like UI
+- Tree-like UI
 - Pure CSS relation lines
 - No dependencies
 
